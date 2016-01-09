@@ -1,4 +1,4 @@
 language: go
 install: true
 go:
-  - tip
+  - 1.5.1
